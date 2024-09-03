@@ -1,0 +1,2 @@
+{"update_id":850964329,
+"message":{"message_id":13,"from":{"id":6226675622,"is_bot":false,"first_name":"\ud80c\udda9 \u1587\u15e9\u142f\u15f4\u144e \ud80c\uddaa","username":"sigmaraven68","language_code":"en"},"chat":{"id":6226675622,"first_name":"\ud80c\udda9 \u1587\u15e9\u142f\u15f4\u144e \ud80c\uddaa","username":"sigmaraven68","type":"private"},"date":1725301531,"text":"Hi"}}
